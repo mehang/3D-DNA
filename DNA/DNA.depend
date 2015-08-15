@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1423205844 source:c:\users\hp\desktop\graphics\dna\main.cpp
+	"trianglefillrasterization.h"
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"transformation.h"
+
+1423141455 c:\users\hp\desktop\graphics\dna\line.h
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<SDL2/SDL.h>
+	"point.h"
+
+1423138991 c:\users\hp\desktop\graphics\dna\point.h
+	<iostream>
+	"vector.h"
+
+1423131265 c:\users\hp\desktop\graphics\dna\vector.h
+	<iostream>
+
+1422889782 c:\users\hp\desktop\graphics\dna\trainglefillrasterization.h
+	<iostream>
+	"line.h"
+	"point.h"
+	"vector.h"
+	<SDL2/SDL.h>
+
+1422378427 c:\users\hp\desktop\graphics\dna\camera2d.h
+	<iostream>
+	"transformation.h"
+	"vector.h"
+	"line.h"
+
+1422781725 c:\users\hp\desktop\graphics\dna\transformation.h
+	"matrix.h"
+	<iostream>
+	<cmath>
+
+1422457761 c:\users\hp\desktop\graphics\dna\matrix.h
+	"vector.h"
+
+1423141431 source:c:\users\hp\desktop\graphics\dna\trianglefillrasterization.cpp
+	"trianglefillrasterization.h"
+
+1422983990 c:\users\hp\desktop\graphics\dna\trianglefillrasterization.h
+	<iostream>
+	"line.h"
+	"point.h"
+	"vector.h"
+	<SDL2/SDL.h>
+

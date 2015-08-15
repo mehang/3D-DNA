@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="line.h" open="1" top="0" tabpos="1">
+		<Cursor position="462" topLine="9" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="3440" topLine="96" />
+	</File>
+	<File name="matrix.h" open="0" top="0" tabpos="4">
+		<Cursor position="7772" topLine="185" />
+	</File>
+	<File name="point.h" open="1" top="0" tabpos="3">
+		<Cursor position="891" topLine="17" />
+	</File>
+	<File name="transformation.h" open="0" top="0" tabpos="4">
+		<Cursor position="2161" topLine="82" />
+	</File>
+	<File name="trianglefillrasterization.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="781" topLine="0" />
+	</File>
+	<File name="trianglefillrasterization.h" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="vector.h" open="1" top="0" tabpos="4">
+		<Cursor position="3610" topLine="153" />
+	</File>
+</CodeBlocks_layout_file>

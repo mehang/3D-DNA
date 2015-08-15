@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1422894726 source:/home/mehang/project/graphics/line.cpp
+	"line.h"
+
+1423141455 /home/mehang/project/graphics/line.h
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<SDL2/SDL.h>
+	"point.h"
+
+1423568615 /home/mehang/project/graphics/point.h
+	<iostream>
+	"vector.h"
+
+1423131265 /home/mehang/project/graphics/vector.h
+	<iostream>
+
+1423569405 source:/home/mehang/project/graphics/main.cpp
+	"trianglefillrasterization.h"
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"transformation.h"
+
+1422983990 /home/mehang/project/graphics/trianglefillrasterization.h
+	<iostream>
+	"line.h"
+	"point.h"
+	"vector.h"
+	<SDL2/SDL.h>
+
+1422781725 /home/mehang/project/graphics/transformation.h
+	"matrix.h"
+	<iostream>
+	<cmath>
+
+1422457761 /home/mehang/project/graphics/matrix.h
+	"vector.h"
+
+1423569519 source:/home/mehang/project/graphics/trianglefillrasterization.cpp
+	"trianglefillrasterization.h"
+
+1423569538 source:/home/mehang/git/graphics/graphics/main.cpp
+	"trianglefillrasterization.h"
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"transformation.h"
+
+1422983990 /home/mehang/git/graphics/graphics/trianglefillrasterization.h
+	<iostream>
+	"line.h"
+	"point.h"
+	"vector.h"
+	<SDL2/SDL.h>
+
+1423141455 /home/mehang/git/graphics/graphics/line.h
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<SDL2/SDL.h>
+	"point.h"
+
+1423568615 /home/mehang/git/graphics/graphics/point.h
+	<iostream>
+	"vector.h"
+
+1423131265 /home/mehang/git/graphics/graphics/vector.h
+	<iostream>
+
+1422781725 /home/mehang/git/graphics/graphics/transformation.h
+	"matrix.h"
+	<iostream>
+	<cmath>
+
+1422457761 /home/mehang/git/graphics/graphics/matrix.h
+	"vector.h"
+
+1423569519 source:/home/mehang/git/graphics/graphics/trianglefillrasterization.cpp
+	"trianglefillrasterization.h"
+
+1424018135 source:/home/mehang/codes/testgraphics/main.cpp
+	"trianglefillrasterization.h"
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"transformation.h"
+	"object.h"
+
+1424016494 /home/mehang/codes/testgraphics/trianglefillrasterization.h
+	<iostream>
+	"line.h"
+	"point.h"
+	"vector.h"
+	<SDL2/SDL.h>
+	<cmath>
+
+1424017428 /home/mehang/codes/testgraphics/line.h
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<SDL2/SDL.h>
+	"point.h"
+
+1423976561 /home/mehang/codes/testgraphics/point.h
+	<iostream>
+	"vector.h"
+
+1423742928 /home/mehang/codes/testgraphics/vector.h
+	<iostream>
+	<cmath>
+
+1423928197 /home/mehang/codes/testgraphics/transformation.h
+	"matrix.h"
+	<iostream>
+	<cmath>
+
+1422457761 /home/mehang/codes/testgraphics/matrix.h
+	"vector.h"
+
+1424016544 source:/home/mehang/codes/testgraphics/trianglefillrasterization.cpp
+	"trianglefillrasterization.h"
+
+1424017111 source:/home/mehang/codes/testgraphics/object.cpp
+	"object.h"
+
+1424005969 /home/mehang/codes/testgraphics/object.h
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	"vector.h"
+	"transformation.h"
+	"matrix.h"
+	"trianglefillrasterization.h"
+
+1424072098 source:/home/mehang/error/main.cpp
+	"trianglefillrasterization.h"
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"transformation.h"
+	"object.h"
+
+1424016494 /home/mehang/error/trianglefillrasterization.h
+	<iostream>
+	"line.h"
+	"point.h"
+	"vector.h"
+	<SDL2/SDL.h>
+	<cmath>
+
+1424027063 /home/mehang/error/line.h
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<SDL2/SDL.h>
+	"point.h"
+
+1424026961 /home/mehang/error/point.h
+	<iostream>
+	"vector.h"
+
+1423742928 /home/mehang/error/vector.h
+	<iostream>
+	<cmath>
+
+1423928197 /home/mehang/error/transformation.h
+	"matrix.h"
+	<iostream>
+	<cmath>
+
+1422457761 /home/mehang/error/matrix.h
+	"vector.h"
+
+1424005969 /home/mehang/error/object.h
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	"vector.h"
+	"transformation.h"
+	"matrix.h"
+	"trianglefillrasterization.h"
+
+1424023998 source:/home/mehang/error/object.cpp
+	"object.h"
+
+1424025174 source:/home/mehang/error/trianglefillrasterization.cpp
+	"trianglefillrasterization.h"
+
+1427578738 source:/home/mehang/codes/error/main.cpp
+	"trianglefillrasterization.h"
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	<iomanip>
+	"vector.h"
+	"transformation.h"
+	"object.h"
+
+1426513718 /home/mehang/codes/error/trianglefillrasterization.h
+	<iostream>
+	"line.h"
+	"point.h"
+	"vector.h"
+	<SDL2/SDL.h>
+	<cmath>
+
+1427546994 /home/mehang/codes/error/line.h
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<SDL2/SDL.h>
+	"point.h"
+
+1426531963 /home/mehang/codes/error/point.h
+	<iostream>
+	"vector.h"
+
+1425310764 /home/mehang/codes/error/vector.h
+	<iostream>
+	<cmath>
+
+1424238772 /home/mehang/codes/error/transformation.h
+	"matrix.h"
+	<iostream>
+	<cmath>
+
+1422457761 /home/mehang/codes/error/matrix.h
+	"vector.h"
+
+1427578523 /home/mehang/codes/error/object.h
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<cmath>
+	"vector.h"
+	"transformation.h"
+	"matrix.h"
+	"trianglefillrasterization.h"
+	<SDL2/SDL.h>
+
+1427578928 source:/home/mehang/codes/error/object.cpp
+	"object.h"
+
+1427563795 source:/home/mehang/codes/error/trianglefillrasterization.cpp
+	"trianglefillrasterization.h"
+
